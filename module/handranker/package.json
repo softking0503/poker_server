@@ -1,0 +1,62 @@
+{
+  "_from": "handranker",
+  "_id": "handranker@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-K5TQzoExyHKqQaVMPeWrOgRdzj4=",
+  "_location": "/handranker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "handranker",
+    "name": "handranker",
+    "escapedName": "handranker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/handranker/-/handranker-1.0.5.tgz",
+  "_shasum": "2b94d0ce8131c872aa41a54c3de5ab3a045dce3e",
+  "_spec": "handranker",
+  "_where": "E:\\POKER_OMAHA\\Server\\PokerServer",
+  "author": {
+    "name": "Logan Spears",
+    "url": "loganjspears@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/loganjspears/ranker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "underscore": "1.5.1"
+  },
+  "deprecated": false,
+  "description": "poker hand ranking program",
+  "devDependencies": {
+    "should": "1.2.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/loganjspears/ranker#readme",
+  "keywords": [
+    "poker",
+    "hand"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "lib/ranker.js",
+  "name": "handranker",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganjspears/ranker.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.5"
+}

@@ -1,0 +1,76 @@
+{
+  "_from": "poker-engine",
+  "_id": "poker-engine@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-OYkxqKr6xiY/8D27VhC6yTOg6B0=",
+  "_location": "/poker-engine",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "poker-engine",
+    "name": "poker-engine",
+    "escapedName": "poker-engine",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/poker-engine/-/poker-engine-0.0.5.tgz",
+  "_shasum": "398931a8aafac6263ff03dbb5610bac933a0e81d",
+  "_spec": "poker-engine",
+  "_where": "E:\\POKER_OMAHA\\PokerServer",
+  "author": {
+    "name": "Roman Zubenko"
+  },
+  "bugs": {
+    "url": "https://github.com/romanzubenko/poker-engine/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "events": "*"
+  },
+  "deprecated": false,
+  "description": "Event-based poker engine for node.",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "engines": {
+    "node": ">=0.10.26",
+    "npm": ">=1.2.10"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "homepage": "https://github.com/romanzubenko/poker-engine",
+  "keywords": [
+    "poker",
+    "texas",
+    "holdhem",
+    "tournament",
+    "cards"
+  ],
+  "license": "BSD",
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "main": "index",
+  "name": "poker-engine",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/romanzubenko/poker-engine.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "0.0.5"
+}
